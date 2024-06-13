@@ -6,7 +6,12 @@
   - [SocialApp (A Social Media App Using Firebase)](https://github.com/me50/joshuaneelyCS)
   - [OJR SuperFan (QR Scanning App for Owen J. Roberts High School)](https://github.com/me50/joshuaneelyCS)
 - <b>C++</b>
+  - [Projects and Algorithms](https://github.com/joshuaneelyCS/Cpp)
 - <b>Python</b>
+  - [College Admissions Program](https://github.com/joshuaneelyCS/Python/tree/main/College%20Admissions%20Program)
+  - [Hair Salon Program](https://github.com/joshuaneelyCS/Python/tree/main/Hair%20Salon%20Program)
+  - [Image Processing Program](https://github.com/joshuaneelyCS/Python/tree/main/Image%20Processing%20Program)
+  - [Mergesort](https://github.com/joshuaneelyCS/Python/tree/main/Mergesort%20Program)
 
 <h2> 🤳 Connect with me:</h2>
 
