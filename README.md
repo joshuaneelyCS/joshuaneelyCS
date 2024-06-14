@@ -4,7 +4,7 @@
 
 - <b>XCode/Swift Mobile Apps</b>
   - [SocialApp (A Social Media App Using Firebase)](https://github.com/me50/joshuaneelyCS)
-  - [OJR SuperFan (QR Scanning App for Owen J. Roberts High School)](https://github.com/me50/joshuaneelyCS/SuperFan)
+  - [OJR SuperFan (QR Scanning App for Owen J. Roberts High School)](https://github.com/joshuaneelyCS/SuperFanApp)
 - <b>C++</b>
   - [Projects and Algorithms](https://github.com/joshuaneelyCS/Cpp)
 - <b>Python</b>
