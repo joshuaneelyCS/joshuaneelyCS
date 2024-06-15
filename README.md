@@ -1,4 +1,17 @@
-<h1>Hi, I'm Joshua! <br/></h1>
+<h2>Hi, I'm Joshua! <br/></h2>
+
+<div align="center">
+<p align="center">
+  <a href="https://joshuaneely.me" target="_blank">
+    https://joshuaneely.me
+  </a>  
+</p>
+&nbsp;
+<a href="#x">
+<img width="41.75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuaneelyCS&layout=compact&theme=transparent&hide=c,vhdl,verilog,matlab,jupyter%20notebook,m4,assembly,javascript"/>
+</a>
+</div>
+
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
