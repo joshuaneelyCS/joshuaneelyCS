@@ -1,9 +1,10 @@
 <h2>Hi, I'm Joshua! <br/></h2>
 
-<div align="center">
-<p align="center">
+<div align="left">
+<p align="left">
+  &nbsp;
   <a href="https://joshuaneely.me" target="_blank">
-    https://joshuaneely.me
+      https://joshuaneely.me
   </a>  
 </p>
 &nbsp;
