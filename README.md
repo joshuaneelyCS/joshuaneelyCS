@@ -26,6 +26,7 @@
   - [Hair Salon Program](https://github.com/joshuaneelyCS/Python/tree/main/Hair%20Salon%20Program)
   - [Image Processing Program](https://github.com/joshuaneelyCS/Python/tree/main/Image%20Processing%20Program)
   - [Mergesort](https://github.com/joshuaneelyCS/Python/tree/main/Mergesort%20Program)
+  - [Coding Problems](https://github.com/joshuaneelyCS/Python/tree/main/Coding%20Problems)
 
 <h2> 🤳 Connect with me:</h2>
 
