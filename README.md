@@ -16,9 +16,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>XCode/Swift Mobile Apps</b>
+- <b>XCode/Swift</b>
   - [SocialApp (A Social Media App Using Firebase)](https://github.com/me50/joshuaneelyCS)
   - [OJR SuperFan (QR Scanning App for Owen J. Roberts High School)](https://github.com/joshuaneelyCS/SuperFanApp)
+- <b>React Native</b>
+  - [Speech Leaderboard App and Dynamic Time Warping](https://github.com/joshuaneelyCS/reactNative)
 - <b>C++</b>
   - [Projects and Algorithms](https://github.com/joshuaneelyCS/Cpp)
 - <b>Python</b>
