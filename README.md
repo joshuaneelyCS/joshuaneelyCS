@@ -19,6 +19,7 @@
 - <b>Unity Game Engine<b>
   - [Nonsense.com Demo (VR)](https://github.com/joshuaneelyCS/nonsense_vr)
 - <b>React Native</b>
+  - [Friend Tracker App](https://github.com/joshuaneelyCS/friend_tracker_app)
   - [Speech Leaderboard App and Dynamic Time Warping](https://github.com/joshuaneelyCS/reactNative)
   - [Peak Nights Swing Dance Mobile App](https://github.com/joshuaneelyCS/Peak-Nights-Mobile-App)
 - <b>ROS2 and Gazebo</b>
